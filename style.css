@@ -1,0 +1,26 @@
+
+
+.introducrtion {
+
+    text-align: center;
+    font-size: 25px;
+    font-family: SF Pro Display, sans-serif;
+    color: #000000;
+    margin-top: 50px;
+    
+}
+
+.button{
+   
+    /* display: inline-block; */
+    text-align: center;
+    margin: 0 5px;
+    padding: 10px 20px;
+    font-size: 32px;
+    font-family: SF Pro Display, sans-serif;
+    color:#F5F5DC;
+    background-color: #6B0210;
+    border: none;
+    border-radius: 11px;
+    text-decoration: none;
+}
